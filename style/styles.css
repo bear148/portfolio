@@ -179,3 +179,15 @@ body {
     align-items: center;
     justify-content: space-between;
 }
+
+footer div {
+    color: gray;
+}
+
+hr {
+    width: 100%;
+    border: 0;
+    height: 1px;
+    background: gray;
+    margin-top: 40px;
+}
